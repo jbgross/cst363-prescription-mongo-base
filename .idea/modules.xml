@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lab21/Lab23.iml" filepath="$PROJECT_DIR$/Lab21/Lab23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cst363-prescription-mongo-base.iml" filepath="$PROJECT_DIR$/.idea/cst363-prescription-mongo-base.iml" />
+    </modules>
+  </component>
+</project>
